@@ -1,0 +1,262 @@
+[
+  {
+    "state_key": "abia",
+    "state": "Abia",
+    "capital": "Umuahia",
+    "lat": 5.532,
+    "lon": 7.486,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "adamawa",
+    "state": "Adamawa",
+    "capital": "Yola",
+    "lat": 9.2035,
+    "lon": 12.4954,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "akwa_ibom",
+    "state": "Akwa Ibom",
+    "capital": "Uyo",
+    "lat": 5.0377,
+    "lon": 7.9128,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "anambra",
+    "state": "Anambra",
+    "capital": "Awka",
+    "lat": 6.21,
+    "lon": 7.07,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "bauchi",
+    "state": "Bauchi",
+    "capital": "Bauchi",
+    "lat": 10.3158,
+    "lon": 9.8442,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "bayelsa",
+    "state": "Bayelsa",
+    "capital": "Yenagoa",
+    "lat": 4.9267,
+    "lon": 6.2676,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "benue",
+    "state": "Benue",
+    "capital": "Makurdi",
+    "lat": 7.7337,
+    "lon": 8.5213,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "borno",
+    "state": "Borno",
+    "capital": "Maiduguri",
+    "lat": 11.8333,
+    "lon": 13.15,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "cross_river",
+    "state": "Cross River",
+    "capital": "Calabar",
+    "lat": 4.9757,
+    "lon": 8.3417,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "delta",
+    "state": "Delta",
+    "capital": "Asaba",
+    "lat": 6.1948,
+    "lon": 6.7354,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "ebonyi",
+    "state": "Ebonyi",
+    "capital": "Abakaliki",
+    "lat": 6.3249,
+    "lon": 8.1137,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "edo",
+    "state": "Edo",
+    "capital": "Benin City",
+    "lat": 6.335,
+    "lon": 5.627,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "ekiti",
+    "state": "Ekiti",
+    "capital": "Ado-Ekiti",
+    "lat": 7.6217,
+    "lon": 5.2216,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "enugu",
+    "state": "Enugu",
+    "capital": "Enugu",
+    "lat": 6.4584,
+    "lon": 7.5464,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "fct",
+    "state": "FCT",
+    "capital": "Abuja",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "gombe",
+    "state": "Gombe",
+    "capital": "Gombe",
+    "lat": 10.2897,
+    "lon": 11.1673,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "imo",
+    "state": "Imo",
+    "capital": "Owerri",
+    "lat": 5.4836,
+    "lon": 7.0333,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "jigawa",
+    "state": "Jigawa",
+    "capital": "Dutse",
+    "lat": 11.7904,
+    "lon": 9.3417,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "kaduna",
+    "state": "Kaduna",
+    "capital": "Kaduna",
+    "lat": 10.5105,
+    "lon": 7.4165,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "kano",
+    "state": "Kano",
+    "capital": "Kano",
+    "lat": 12.0022,
+    "lon": 8.592,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "kebbi",
+    "state": "Kebbi",
+    "capital": "Birnin Kebbi",
+    "lat": 12.4539,
+    "lon": 4.1975,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "kogi",
+    "state": "Kogi",
+    "capital": "Lokoja",
+    "lat": 7.7975,
+    "lon": 6.7392,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "kwara",
+    "state": "Kwara",
+    "capital": "Ilorin",
+    "lat": 8.5,
+    "lon": 4.55,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "sokoto",
+    "state": "Sokoto",
+    "capital": "Sokoto",
+    "lat": 13.0622,
+    "lon": 5.2339,
+    "rows": 9497,
+    "date_min": "2000-01-01",
+    "date_max": "2025-12-31"
+  },
+  {
+    "state_key": "yobe",
+    "state": "Yobe",
+    "capital": "Damaturu",
+    "lat": 11.7471,
+    "lon": 11.9608,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  },
+  {
+    "state_key": "zamfara",
+    "state": "Zamfara",
+    "capital": "Gusau",
+    "lat": 12.1704,
+    "lon": 6.6649,
+    "rows": 9665,
+    "date_min": "2000-01-01",
+    "date_max": "2026-06-17"
+  }
+]

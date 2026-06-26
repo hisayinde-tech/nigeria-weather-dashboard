@@ -1,0 +1,21 @@
+Feature,ShortName,PSO_Weight,Selected
+KWARA_humidity,humidity,0.9215,1
+KWARA_temp_min_lag1,temp_min (lag1),0.8878,1
+KWARA_sunshine_lag1,sunshine (lag1),0.7914,1
+KWARA_humidity_lag1,humidity (lag1),0.7535,1
+KWARA_cloud_cover,cloud_cover,0.6816,1
+KWARA_wind_speed,wind_speed,0.6338,1
+KWARA_pressure_lag1,pressure (lag1),0.6329,1
+KWARA_global_radiation_lag1,global_radiation (lag1),0.6194,1
+KWARA_global_radiation,global_radiation,0.6094,1
+KWARA_pressure,pressure,0.4046,0
+KWARA_temp_max,temp_max,0.4002,0
+KWARA_temp_mean_lag1,temp_mean (lag1),0.3807,0
+KWARA_wind_speed_lag1,wind_speed (lag1),0.3082,0
+KWARA_wind_gust,wind_gust,0.2513,0
+KWARA_temp_mean,temp_mean,0.2357,0
+KWARA_temp_max_lag1,temp_max (lag1),0.2257,0
+KWARA_wind_gust_lag1,wind_gust (lag1),0.198,0
+KWARA_sunshine,sunshine,0.1309,0
+KWARA_cloud_cover_lag1,cloud_cover (lag1),0.0815,0
+KWARA_temp_min,temp_min,0.0064,0

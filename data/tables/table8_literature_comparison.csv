@@ -1,0 +1,4 @@
+Author,Method,Dataset,MAE,RMSE,R2,MSE,MAPE
+Sen et al. (2023),PSO + GRU,"Ontario, Canada (10 yr)",N/A,N/A,N/A,Reported,1.15%
+Xu et al. (2022),PSO + LSTM,Rainfall-Runoff,N/A,Reported,Reported,N/A,N/A
+This Study,PSO + Random Forest,"Nigeria (37 states, 25 yr)",3.219,6.1583,0.1695,37.9242,876.47%

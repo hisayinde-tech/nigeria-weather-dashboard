@@ -1,0 +1,12 @@
+Column,Missing_Before,Missing_After,Imputation
+KWARA_temp_mean,33,0,Column Mean
+KWARA_temp_min,33,0,Column Mean
+KWARA_temp_max,33,0,Column Mean
+KWARA_humidity,33,0,Column Mean
+KWARA_wind_speed,33,0,Column Mean
+KWARA_wind_gust,33,0,Column Mean
+KWARA_cloud_cover,33,0,Column Mean
+KWARA_pressure,33,0,Column Mean
+KWARA_global_radiation,33,0,Column Mean
+KWARA_sunshine,33,0,Column Mean
+KWARA_precipitation,33,0,Column Mean
